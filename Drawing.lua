@@ -616,10 +616,6 @@ function DrawingLib.createFrame()
 	})
 end
 
-task.spawn(function()
-    print("hi")
-end)
-
 
 function DrawingLib.createScreenGui()
 	local screenGuiObj = ({
